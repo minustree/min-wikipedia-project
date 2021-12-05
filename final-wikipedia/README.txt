@@ -8,6 +8,12 @@ The question file MUST be in the given directory.
 
 Please make sure that the .jar file and the source directory given are in the same location.
 
+Like this:
+src/main/resources
+->wikipedia-files
+->questions.txt
+QA-project.jar
+
 To run, use the command:
 java -jar QA-project.jar
 
